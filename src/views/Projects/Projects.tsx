@@ -50,7 +50,7 @@ export default function Projects() {
                   <LinkBanner
                       text={'Github'}
                       image={githubLogo}
-                      url={'https://github.com/FabianSiffert1/siffertio'}
+                      url={'https://github.com/FabianSiffert/siffertio'}
                   />
                 </div>
               </div>
@@ -112,7 +112,7 @@ export default function Projects() {
                     <LinkBanner
                         text={'Github'}
                         image={githubLogo}
-                        url={'https://github.com/FabianSiffert1/inv'}
+                        url={'https://github.com/FabianSiffert/inv'}
                     />
                   </div>
                 </div>

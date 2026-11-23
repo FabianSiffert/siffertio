@@ -7,7 +7,7 @@ const language = {
     HEADER_TITLE: 'siffert[.io]',
     JOB: 'Software Developer',
     LINK_EMAIL: 'mailto:siffert.dev+io@gmail.com',
-    LINK_GITHUB: 'https://github.com/FabianSiffert1?tab=repositories',
+    LINK_GITHUB: 'https://github.com/FabianSiffert?tab=repositories',
     LINK_LINKEDIN:'https://www.linkedin.com/in/fabian-siffert-5b2481289/',
     LINKEDIN:'LinkedIn',
     LOGO: 'LOGO_TEXT',
